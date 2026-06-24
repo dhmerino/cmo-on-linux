@@ -158,8 +158,6 @@ playable.
 
 ## Notes / FAQ
 
-- **Multiplayer** is Professional-Edition only. For the standard edition, use
-  community PBEM/hotseat via [IKE](https://github.com/musurca/IKE).
 - **Why not just convert the images?** The missing pictures come compressed inside
   the `.db3` databases, extracted at runtime — you can't pre-convert them cleanly.
   Fixing WIC fixes every scenario at once.
