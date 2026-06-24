@@ -1,7 +1,7 @@
-# Command: Modern Operations on Linux — 100% working (briefings + crashes fixed)
+# Command: Modern Operations on Linux, fully working (briefings + crashes fixed)
 
 A complete, battle-tested recipe to run **Command: Modern Operations** (Steam appid
-**1076160**) on Linux via Proton — **including the blank briefing panels** and the
+**1076160**) on Linux via Proton, **including the blank briefing panels** and the
 **scenario-load crashes** that nobody seems to have documented.
 
 CMO is notoriously hard on Linux because it leans on **four** different Windows
@@ -19,7 +19,7 @@ DLL** built for Wine, because the crash (`WINCODEC_ERR_COMPONENTNOTFOUND`,
 `0x88982F50`) is otherwise unsolvable.
 
 Tested on Ubuntu 22.04 + NVIDIA GTX 1060, GE-Proton10-34. Should apply to any
-modern distro.
+modern distro, but let me know.
 
 ---
 
